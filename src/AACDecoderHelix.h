@@ -3,7 +3,7 @@
 #include "CommonHelix.h"
 #include "libhelix-aac/aacdec.h"
 
-#define AAC_MAX_OUTPUT_SIZE 1024 * 3 
+#define AAC_MAX_OUTPUT_SIZE 1024 * 1
 #define AAC_MAX_FRAME_SIZE 2100 
 
 namespace libhelix {
